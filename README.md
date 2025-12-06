@@ -26,7 +26,7 @@ Outlier analizi
 
 Train-test split (%80–20)
 
-Kullanılan Modeller:
+**Kullanılan Modeller:**
 
 Logistic Regression
 
