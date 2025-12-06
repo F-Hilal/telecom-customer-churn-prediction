@@ -60,3 +60,22 @@ Yüksek riskli müşteri segmentleri belirlendi
 Sadakat programı, fiyat optimizasyonu ve hedefli kampanya önerileri geliştirildi
 
 İş birimleri için anlamlı öngörüler sunuldu
+
+**Nasıl Çalıştırılır?**
+
+Bu projeyi çalıştırmak için Python 3.x ve aşağıdaki kütüphaneler gerekir:
+
+- pandas  
+- numpy  
+- matplotlib  
+- seaborn  
+- scikit-learn  
+- xgboost  
+
+Tüm kütüphaneler kod dosyasının başında görülebilir.
+
+**Projeyi çalıştırmak için:**
+
+Aşağıdaki komutu terminalde çalıştırarak model eğitim sürecini başlatabilirsiniz:
+
+python telecom_churn_analysis.py
