@@ -1,4 +1,4 @@
-##Telecom Customer Churn Prediction
+## Telecom Customer Churn Prediction
 
 Bu projede bir telekom şirketinin müşteri kaybını (churn) tahmin etmek için uçtan uca bir makine öğrenmesi modeli geliştirdim.
 
