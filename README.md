@@ -14,6 +14,11 @@ Gelir kaybını azaltmak
 
 için karar destek modeli oluşturmak.
 
+**Veri Seti:**
+
+Bu projede [Telco Customer Churn](https://www.kaggle.com/blastchar/telco-customer-churn) veri seti kullanılmıştır.
+
+
 **Veri Hazırlama:**
 
 Eksik değer temizleme
