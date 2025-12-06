@@ -40,7 +40,7 @@ Class imbalance için class_weight ve threshold selection
 
 **Sonuçlar:**
 
-🚀 En başarılı model: Random Forest
+En başarılı model: Random Forest
 
 ROC-AUC, precision, recall, f1-score ile performans ölçüldü
 
